@@ -1,7 +1,7 @@
-package repository;
-
-import org.springframework.stereotype.Repository;
-
-@Repository
-public class StudentRepo {
-}
+//package repository;
+//
+//import org.springframework.stereotype.Repository;
+//
+//@Repository
+//public class StudentRepo {
+//}
